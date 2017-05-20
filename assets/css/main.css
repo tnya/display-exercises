@@ -1,0 +1,146 @@
+* {
+	font-family: 'Raleway', sans-serif; 
+	font-size: 18px;
+}
+
+/* EJERCICIO 1*/
+
+.lab1, .trans1{
+
+	background-color: yellow;	
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 50px;
+	
+
+}
+
+.es1{
+	background-color: red;	
+	padding-top: 5px;
+	padding-right: : 10px;
+	padding-left: 10px;
+	padding-bottom: 50px;
+	
+	border: 2px solid black;
+
+}
+
+/* EJERCICIO 2 */
+
+.lab2, .trans2 {
+	background-color: yellow;	
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 50px;
+	
+	width: 180px;/* nuevo ancho de caja*/
+	margin: 20px;
+
+}
+
+.es2 {
+	background-color: red;	
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 50px;
+	width: 180px;
+	margin: 20px;
+
+}
+
+/* EJERCICIO 3 */
+
+.lab3 {
+
+	background-color: yellow;	
+	padding: 10px;
+	width: 100px;/* nuevo ancho de caja*/
+	margin: 5px;
+	display: inline-block;
+}
+
+.trans3 {
+	background-color: yellow;	
+	padding: 10px;
+	width: 170px;/* nuevo ancho de caja*/
+	margin: 5px;
+	display: inline-block;
+}
+
+.es3 {
+	background-color: red;	
+	padding: 10px;
+	width: 40px;
+	margin: 5px;
+	display: inline-block;
+
+}
+
+/* EJERCICIO 4 */
+
+.lab4, .trans4 {
+
+	background-color: yellow;	
+	padding-top: 5px;
+	padding-right: : 10px;
+	padding-left: 10px;
+	padding-bottom: 40px;	
+	width: 180px;/* nuevo ancho de caja*/
+	margin: 5px;
+	display: inline-block;
+	font-size: 14px;
+}
+
+.es4 {
+	background-color: red;	
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 40px;
+	width: 180px;
+	margin: 5px;
+	display: inline-block;
+	font-size: 14px;
+}
+
+/* EJERCICIO 5 */
+
+.box1,.box5,.box6,.box7 {
+	background-color: #7E00B1;
+	font-size: 14px;
+	text-align: center;
+
+	border: 3px solid #B565FF ;
+	width: 70px;
+	height: 70px;
+	display: inline-block;
+
+}
+
+.box2,.box3,.box4,{
+	background-color: #7E00B1;
+	font-size: 14px;
+	text-align: center;
+	border: 3px solid #B565FF ;
+	padding: 40px;
+	width: 70px;
+	height: 70px;
+
+	display: inline-block;
+
+}
+.boxes1 {
+	background-color: #7E00B1;
+	font-size: 14px;
+	text-align: center;
+
+	border: 3px solid #B565FF ;
+	width: 400px;
+	height: 120px;
+	display: block;
+
+}
